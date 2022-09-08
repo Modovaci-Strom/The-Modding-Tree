@@ -34,7 +34,7 @@ addLayer("p", {
         12: {
             title: "Downgrade",
             description: "Halve your point gain.",
-            cost: new Decimal(0)
+            cost: new Decimal(20)
         }
     }
 })
