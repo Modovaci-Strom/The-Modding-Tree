@@ -35,6 +35,11 @@ addLayer("p", {
             title: "Downgrade",
             description: "Halve your point gain.",
             cost: new Decimal(20)
+        },
+        21: {
+            title: "5-Star Grade",
+            description: "Square point gain.",
+            cost: new Decimal(30)
         }
     }
 })
